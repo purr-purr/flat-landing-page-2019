@@ -73,8 +73,8 @@ body {
   transition: .3s; }
 
 .main-menu:hover .burger__link {
-  -webkit-filter: blur(3px);
-          filter: blur(3px); }
+  -webkit-filter: blur(2px);
+          filter: blur(2px); }
 
 .main-menu:hover .burger__link:hover {
   -webkit-filter: blur(0px);
